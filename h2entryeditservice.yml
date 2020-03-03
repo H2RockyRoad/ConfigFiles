@@ -1,1 +1,1 @@
-name: Superman
+auth-domain: ${vcap.services.onelogin.credentials.auth_domain}
